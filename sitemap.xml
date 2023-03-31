@@ -241,14 +241,7 @@
   </url>
   
   <url>
-    <loc>https://dream.github.io/tags/chatgpt-%E6%A8%A1%E6%9D%BF/</loc>
-    <lastmod>2023-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dream.github.io/tags/chatgpt-ai-gpt3-5/</loc>
+    <loc>https://dream.github.io/tags/%E6%B3%A8%E5%86%8C%EF%BC%8Cchatgpt%EF%BC%8Cai/</loc>
     <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -262,13 +255,6 @@
   </url>
   
   <url>
-    <loc>https://dream.github.io/tags/chatgpt-ai/</loc>
-    <lastmod>2023-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://dream.github.io/tags/%E6%A8%A1%E6%9D%BF/</loc>
     <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -276,7 +262,21 @@
   </url>
   
   <url>
-    <loc>https://dream.github.io/tags/%E6%B3%A8%E5%86%8C%EF%BC%8Cchatgpt%EF%BC%8Cai/</loc>
+    <loc>https://dream.github.io/tags/chatgpt-ai/</loc>
+    <lastmod>2023-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://dream.github.io/tags/chatgpt-ai-gpt3-5/</loc>
+    <lastmod>2023-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://dream.github.io/tags/chatgpt-%E6%A8%A1%E6%9D%BF/</loc>
     <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

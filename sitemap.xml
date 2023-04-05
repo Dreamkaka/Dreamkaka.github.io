@@ -307,13 +307,6 @@
   </url>
   
   <url>
-    <loc>https://dreamkaka.github.io/tags/%E5%8E%9F%E7%90%86-chatgpt/</loc>
-    <lastmod>2023-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://dreamkaka.github.io/tags/chatgpt-ai-gpt3-5/</loc>
     <lastmod>2023-04-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -342,6 +335,13 @@
   </url>
   
   <url>
+    <loc>https://dreamkaka.github.io/tags/chatgpt-ai/</loc>
+    <lastmod>2023-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://dreamkaka.github.io/tags/ChatGPT-AI/</loc>
     <lastmod>2023-04-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -349,7 +349,7 @@
   </url>
   
   <url>
-    <loc>https://dreamkaka.github.io/tags/chatgpt-ai/</loc>
+    <loc>https://dreamkaka.github.io/tags/%E5%8E%9F%E7%90%86-chatgpt/</loc>
     <lastmod>2023-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
